@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-  Hi, I'm [Your Name]
+  Hi, I'm hasan ebrahim
 </h1>
 
 ### Frontend Developer | UI/UX Enthusiast | Web Craftsman
